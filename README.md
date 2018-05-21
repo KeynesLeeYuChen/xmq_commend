@@ -58,7 +58,8 @@ PageRank算法：
 
 余弦夹角公式： 
 $$ \cos\theta = \frac{\alpha*\beta}{|\alpha|·|\beta|} $$  
-<img src="http://latex.codecogs.com/gif.latex?\\cos\theta = \frac{\alpha*\beta}{|\alpha|·|\beta|}" />
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 作者：Deep Reader
 链接：https://www.zhihu.com/question/26887527/answer/43166739
