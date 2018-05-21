@@ -55,6 +55,7 @@ PageRank算法：
 运用余弦相似度来衡定用户的相似性，加入权重因素，让衡定结果更准确。  
 
 ##### 1.余弦相似度
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 余弦夹角公式： 
 $$ \cos\theta = \frac{\alpha*\beta}{|\alpha|·|\beta|} $$  
 
